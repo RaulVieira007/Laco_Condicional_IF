@@ -18,7 +18,3 @@ if (idade >= 18 && idade <= 59) {
 } else {
     console.log(`${nome} NÃO está apto para doar sangue.`);
 }
-
-// Sainda Terminal
-console.log(A + " + " + B + " = " + soma + "\nA Soma de A + B é Maior que C"   );
-console.log(`${A} + ${B} = ${soma} \nA Soma de A + B é Maior que C `);
