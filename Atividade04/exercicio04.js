@@ -1,3 +1,4 @@
+// Importando readline-sync
 const readline = require('readline-sync');
 
 // Entrada das três palavras com instruções
