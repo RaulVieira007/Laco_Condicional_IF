@@ -42,7 +42,50 @@ Veja os exemplos abaixo:
 </div>
 
 Na construção do Algoritmo, utilize os seguintes conteúdos:
-Entrada e Saída de dados
-Operadores
-Laço Condicional Switch
+- Entrada e Saída de dados
+- Operadores
+- Laço Condicional Switch
+
+## Atividade 06
+Com base na tabela abaixo, escreva um algoritmo que leia o Nome do Colaborador (string), o Código do Cargo do Colaborador (número inteiro entre 1 e 6) e o Salário (número real). A seguir, mostre na tela o Nome do Colaborador, o Cargo e o novo Salário reajustado.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/07b20550-738e-4673-8a5c-80447215ae0c" />
+</div>
+Novo Salário = salário + (reajuste * salário)
+
+Veja os exemplos abaixo:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4973fcc7-eba8-4d6e-b2df-5fee1fc5d4c4" />
+</div>
+
+Na construção do Algoritmo, utilize os seguintes conteúdos:
+ - Entrada e Saída de dados
+ - Operadores
+ - Laço Condicional Switch
+
+## Atividade 07
+
+Com base na tabela abaixo, escreva um algoritmo que simule uma Calculadora simples. O programa deverá ler dois números reais: numero1 e numero2, e na sequência ler o Código da operação matemática (número inteiro entre 1 e 4). A seguir, mostre na tela o resultado da operação entre os 2 números. Caso o número da operação esteja fora do intervalo entre 1 e 4, mostre a mensagem na tela Operação Inválida!
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/14ebc086-7f17-4243-a9e8-b3edd2323778" />
+</div>
+
+Veja os exemplos abaixo:
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9db090b7-712e-4d98-8ea2-b0fdda65c815" /> 
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/897f9397-8f08-4493-b46a-d5a4f4ca7d68" /> 
+</div>
+
+Na construção do Algoritmo, utilize os seguintes conteúdos:
+ - Entrada e Saída de dados
+ - Operadores
+ - Laço Condicional Switch
+
 
