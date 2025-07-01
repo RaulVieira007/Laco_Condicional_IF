@@ -21,7 +21,7 @@ Para doar sangue é necessário ter entre 18 e 69 anos. Pessoas com idade entre 
   <img src="https://github.com/user-attachments/assets/60434062-f11c-49be-b01a-9c94aa3bfb17" />
 </div>
 
-## Atividade 04
+## 📘 Atividade 04
 Escreva um algoritmo que leia 3 palavras (string), que definem as características de um tipo de animal, segundo o diagrama abaixo, que deve ser lido da esquerda para a direita.
 
 <div align="center">
